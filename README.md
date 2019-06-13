@@ -18,7 +18,7 @@ space. You also start with 100 health points. You only have 4 health packs left 
 
 Map: 
  _ _ _ _ _ _ _ _ _ _
-|_|O|_|#|#|_|_|_|_|_|
+|_|O|_|#|#|_|_|_|_|_|\n
 |O|O|_|_|#|_|_|O|_|_|
 |O|_|_|_|_|@|_|_|O|_|
 |_|_|_|_|_|_|_|_|_|_|
