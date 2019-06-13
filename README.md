@@ -16,19 +16,6 @@ You are low on oxygen. You can only take 100 steps before you run out and suffoc
 space. You also start with 100 health points. You only have 4 health packs left that will recover 
 10 health points each. If you run out of health, you will die.
 
-Map: 
- _ _ _ _ _ _ _ _ _ _
-|_|O|_|#|#|_|_|_|_|_|\n
-|O|O|_|_|#|_|_|O|_|_|
-|O|_|_|_|_|@|_|_|O|_|
-|_|_|_|_|_|_|_|_|_|_|
-|_|#|_|O|_|_|_|_|#|#|
-|_|_|_|_|_|^|&|_|_|#|
-|_|_|@|_|_|_|_|_|_|_|
-|O|_|_|#|_|_|_|_|_|_|
-|_|O|_|_|#|_|#|@|_|_|
-|_|O|_|_|_|_|_|_|_|_|
-
 Legend:
  - You = &
  - Rocket ship = ^
